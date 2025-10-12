@@ -13,5 +13,4 @@ Contributors list
 
 
 
-After creating a pull request, please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSetIAN2gDV-wMiUzSFfr5HDyGCIutqriJvERc6XbsEayAnvpg/viewform?usp=sharing).
-
+After creating a pull request, please fill this [form](https://forms.gle/ejRvLXVMPz9E8voD6).
